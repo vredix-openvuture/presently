@@ -1,3 +1,1 @@
-# presently
-
-Release builds of a private app. Not meant for you.
+nothing to see here, come back later
